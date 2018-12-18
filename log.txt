@@ -1,0 +1,1872 @@
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mTitle: Titanic[39m
+[32mRelease Year: 1997[39m
+[32mIMDB Rating: 7.8[39m
+[32mRotten Tomatoes Rating: 89%[39m
+[32mCountry: USA[39m
+[32mLanguage: English, Swedish[39m
+[32mPlot: A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.[39m
+[32mActors: Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mArtist: Powersurge[39m
+[32mSong: Nc State Wolf Pack Roll with It (Wolf Pack Fight Song)[39m
+[32mPreview: https://p.scdn.co/mp3-preview/a10587c56fe4fc3743562efa34cfd42f89afaf14?cid=01842c4ba69642b9a24f3fcd969a57ca[39m
+[32mAlbum: Ncaa Roll with It College Sports Fight Songs[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mArtist: Mariah Carey[39m
+[32mSong: All I Want for Christmas Is You[39m
+[32mPreview: https://p.scdn.co/mp3-preview/9e09ab9d690d07b7da065ca745faf9b91063820a?cid=01842c4ba69642b9a24f3fcd969a57ca[39m
+[32mAlbum: Merry Christmas[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Kleine Olympiahalle München[39m
+[32mCity: München[39m
+[32mCountry: Germany[39m
+[32mDate: 02/21/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Mercedes-Benz Arena - Berlin[39m
+[32mCity: Berlin-altglienicke[39m
+[32mCountry: Germany[39m
+[32mDate: 02/28/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Royal Arena[39m
+[32mCity: Copenhagen[39m
+[32mCountry: Denmark[39m
+[32mDate: 03/01/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Ericsson Globe[39m
+[32mCity: Stockholm[39m
+[32mCountry: Sweden[39m
+[32mDate: 03/04/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Palais 12[39m
+[32mCity: Brussels[39m
+[32mCountry: Belgium[39m
+[32mDate: 03/06/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: AccorHotels Arena[39m
+[32mCity: Paris[39m
+[32mCountry: France[39m
+[32mDate: 03/07/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Bordeaux Metropole Arena[39m
+[32mCity: Bouliac[39m
+[32mCountry: France[39m
+[32mDate: 03/09/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: The O2[39m
+[32mCity: London[39m
+[32mCountry: United Kingdom[39m
+[32mDate: 03/11/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Arena Birmingham[39m
+[32mCity: Birmingham[39m
+[32mCountry: United Kingdom[39m
+[32mDate: 03/14/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: The 3Arena[39m
+[32mCity: Dublin[39m
+[32mCountry: Ireland[39m
+[32mDate: 03/15/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: SSE Hydro[39m
+[32mCity: Glasgow[39m
+[32mCountry: United Kingdom[39m
+[32mDate: 03/17/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Manchester Arena[39m
+[32mCity: Manchester[39m
+[32mCountry: United Kingdom[39m
+[32mDate: 03/18/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Rockhal[39m
+[32mCity: Esch-sur-alzette[39m
+[32mCountry: Luxembourg[39m
+[32mDate: 03/20/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Festhalle Messe Frankfurt GmbH[39m
+[32mCity: Frankfurt Am Main[39m
+[32mCountry: Germany[39m
+[32mDate: 03/22/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Lanxess Arena[39m
+[32mCity: Köln[39m
+[32mCountry: Germany[39m
+[32mDate: 03/23/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Ziggo Dome[39m
+[32mCity: Amsterdam[39m
+[32mCountry: Netherlands[39m
+[32mDate: 03/25/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Hallenstadion[39m
+[32mCity: Zürich[39m
+[32mCountry: Switzerland[39m
+[32mDate: 03/27/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Geneva Arena[39m
+[32mCity: Geneva[39m
+[32mCountry: Switzerland[39m
+[32mDate: 03/28/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Mandalay Bay Events Center[39m
+[32mCity: Las Vegas[39m
+[32mCountry: NV[39m
+[32mCountry: United States[39m
+[32mDate: 12/30/2018[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Mandalay Bay Events Center[39m
+[32mCity: Las Vegas[39m
+[32mCountry: NV[39m
+[32mCountry: United States[39m
+[32mDate: 12/31/2018[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Brisbane Entertainment Centre[39m
+[32mCity: Brisbane[39m
+[32mCountry: Australia[39m
+[32mDate: 02/19/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Qudos Bank Arena[39m
+[32mCity: Sydney[39m
+[32mCountry: Australia[39m
+[32mDate: 02/21/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Rod Laver Arena[39m
+[32mCity: Melbourne[39m
+[32mCountry: Australia[39m
+[32mDate: 02/22/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Tokyo Dome[39m
+[32mCity: Tokyo[39m
+[32mCountry: Tokyo[39m
+[32mCountry: Japan[39m
+[32mDate: 02/25/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Gocheok Sky Dome[39m
+[32mCity: Seoul[39m
+[32mCountry: South Korea[39m
+[32mDate: 02/27/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: TBA[39m
+[32mCity: Kaohsiung City[39m
+[32mCountry: Taiwan[39m
+[32mDate: 03/01/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: TBA[39m
+[32mCity: Macau[39m
+[32mCountry: Macau[39m
+[32mDate: 03/03/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: SM Mall Of Asia[39m
+[32mCity: Manila[39m
+[32mCountry: Philippines[39m
+[32mDate: 03/05/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: NATIONAL STADIUM[39m
+[32mCity: Singapore[39m
+[32mCountry: Singapore[39m
+[32mDate: 03/07/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: CHALLENGER HALL[39m
+[32mCity: Bangkok[39m
+[32mCountry: Thailand[39m
+[32mDate: 03/09/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Mollenpark[39m
+[32mCity: Aalborg[39m
+[32mCountry: Denmark[39m
+[32mDate: 06/01/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Lanxess Arena[39m
+[32mCity: Cologne[39m
+[32mCountry: Germany[39m
+[32mDate: 06/03/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: O2 ARENA[39m
+[32mCity: Prague[39m
+[32mCountry: Czech Republic[39m
+[32mDate: 06/05/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Tauron Arena[39m
+[32mCity: Kraków[39m
+[32mCountry: Poland[39m
+[32mDate: 06/06/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Ziggo Dome[39m
+[32mCity: Amsterdam[39m
+[32mCountry: Netherlands[39m
+[32mDate: 06/10/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: AccorHotels Arena[39m
+[32mCity: Paris[39m
+[32mCountry: France[39m
+[32mDate: 06/11/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mArtist: Mariah Carey[39m
+[32mSong: All I Want for Christmas Is You[39m
+[32mPreview: https://p.scdn.co/mp3-preview/9e09ab9d690d07b7da065ca745faf9b91063820a?cid=01842c4ba69642b9a24f3fcd969a57ca[39m
+[32mAlbum: Merry Christmas[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mArtist: Michael Jackson[39m
+[32mSong: Beat It - Single Version[39m
+[32mPreview: https://p.scdn.co/mp3-preview/06392eaab5975806f18d8411f5b58f50b1899198?cid=01842c4ba69642b9a24f3fcd969a57ca[39m
+[32mAlbum: Thriller 25 Super Deluxe Edition[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mTitle: Nutcracker[39m
+[32mRelease Year: 1986[39m
+[32mIMDB Rating: 7.1[39m
+[32mCountry: USA[39m
+[32mLanguage: English[39m
+[32mPlot: The colorful holiday classic is finally brought to the big screen, designed by famed children's story author and artist Maurice Sendak, and written for the first time to be as close as ...[39m
+[32mActors: Hugh Bigney, Vanessa Sharp, Patricia Barker, Wade Walthall[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mTitle: Nutcracker[39m
+[32mRelease Year: 1986[39m
+[32mIMDB Rating: 7.1[39m
+[32mCountry: USA[39m
+[32mLanguage: English[39m
+[32mPlot: The colorful holiday classic is finally brought to the big screen, designed by famed children's story author and artist Maurice Sendak, and written for the first time to be as close as ...[39m
+[32mActors: Hugh Bigney, Vanessa Sharp, Patricia Barker, Wade Walthall[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mTitle: Nutcracker[39m
+[32mRelease Year: 1986[39m
+[32mIMDB Rating: 7.1[39m
+[96mCountry: USA[39m
+[32mLanguage: English[39m
+[32mPlot: The colorful holiday classic is finally brought to the big screen, designed by famed children's story author and artist Maurice Sendak, and written for the first time to be as close as ...[39m
+[32mActors: Hugh Bigney, Vanessa Sharp, Patricia Barker, Wade Walthall[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[35mTitle: Nutcracker[39m
+[32mRelease Year: 1986[39m
+[32mIMDB Rating: 7.1[39m
+[32mCountry: USA[39m
+[32mLanguage: English[39m
+[32mPlot: The colorful holiday classic is finally brought to the big screen, designed by famed children's story author and artist Maurice Sendak, and written for the first time to be as close as ...[39m
+[32mActors: Hugh Bigney, Vanessa Sharp, Patricia Barker, Wade Walthall[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[94mTitle: Nutcracker[39m
+[32mRelease Year: 1986[39m
+[32mIMDB Rating: 7.1[39m
+[32mCountry: USA[39m
+[32mLanguage: English[39m
+[32mPlot: The colorful holiday classic is finally brought to the big screen, designed by famed children's story author and artist Maurice Sendak, and written for the first time to be as close as ...[39m
+[32mActors: Hugh Bigney, Vanessa Sharp, Patricia Barker, Wade Walthall[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[94mTitle of the movie: Nutcracker[39m
+[32mYear the movie came out: 1986[39m
+[32mIMDB Rating of the movie: 7.1[39m
+[32m Country where the movie was produced: USA[39m
+[32mLanguage of the movie: English[39m
+[32mPlot of the movie: The colorful holiday classic is finally brought to the big screen, designed by famed children's story author and artist Maurice Sendak, and written for the first time to be as close as ...[39m
+[32mActors in the movie: Hugh Bigney, Vanessa Sharp, Patricia Barker, Wade Walthall[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[94mTitle of the movie: Nutcracker[39m
+[32mYear the movie came out: 1986[39m
+[32mIMDB Rating of the movie: 7.1[39m
+[32mCountry where the movie was produced: USA[39m
+[32mLanguage of the movie: English[39m
+[32mPlot of the movie: The colorful holiday classic is finally brought to the big screen, designed by famed children's story author and artist Maurice Sendak, and written for the first time to be as close as ...[39m
+[32mActors in the movie: Hugh Bigney, Vanessa Sharp, Patricia Barker, Wade Walthall[39m
+[33m[39m
+[33m---------------------------------------------------[39m
+[33m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[94mTitle of the movie: Nutcracker[39m
+[32mYear the movie came out: 1986[39m
+[32mIMDB Rating of the movie: 7.1[39m
+[32m Rotten Tomatoes Rating of the movie: undefined[39m
+[32mCountry where the movie was produced: USA[39m
+[32mLanguage of the movie: English[39m
+[32mPlot of the movie: The colorful holiday classic is finally brought to the big screen, designed by famed children's story author and artist Maurice Sendak, and written for the first time to be as close as ...[39m
+[32mActors in the movie: Hugh Bigney, Vanessa Sharp, Patricia Barker, Wade Walthall[39m
+[33m[39m
+[33m---------------------------------------------------[39m
+[33m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[94mTitle of the movie: Nutcracker[39m
+[32mYear the movie came out: 1986[39m
+[32mIMDB Rating of the movie: 7.1[39m
+[32mRotten Tomatoes Rating of the movie: undefined[39m
+[32mCountry where the movie was produced: USA[39m
+[32mLanguage of the movie: English[39m
+[32mPlot of the movie: The colorful holiday classic is finally brought to the big screen, designed by famed children's story author and artist Maurice Sendak, and written for the first time to be as close as ...[39m
+[32mActors in the movie: Hugh Bigney, Vanessa Sharp, Patricia Barker, Wade Walthall[39m
+[33m[39m
+[33m---------------------------------------------------[39m
+[33m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[94mTitle of the movie: Titanic[39m
+[32mYear the movie came out: 1997[39m
+[32mIMDB Rating of the movie: 7.8[39m
+[32mRotten Tomatoes Rating of the movie: undefined[39m
+[32mCountry where the movie was produced: USA[39m
+[32mLanguage of the movie: English, Swedish[39m
+[32mPlot of the movie: A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.[39m
+[32mActors in the movie: Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates[39m
+[33m[39m
+[33m---------------------------------------------------[39m
+[33m[39m
+[33m[39m
+[33m---------------------------------------------------[39m
+[33m[39m
+[94mTitle of the movie: Titanic[39m
+[32mYear the movie came out: 1997[39m
+[32mIMDB Rating of the movie: 7.8[39m
+[32mRotten Tomatoes Rating of the movie: undefined[39m
+[32mCountry where the movie was produced: USA[39m
+[32mLanguage of the movie: English, Swedish[39m
+[32mPlot of the movie: A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.[39m
+[32mActors in the movie: Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates[39m
+[33m[39m
+[33m---------------------------------------------------[39m
+[33m[39m
+[33m[39m
+[33m---------------------------------------------------[39m
+[33m[39m
+[94mTitle of the movie: Titanic[39m
+[32mYear the movie came out: 1997[39m
+[32mIMDB Rating of the movie: 7.8[39m
+[32mRotten Tomatoes Rating of the movie: undefined[39m
+[32mCountry where the movie was produced: USA[39m
+[32mLanguage of the movie: English, Swedish[39m
+[32mPlot of the movie: A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.[39m
+[32mActors in the movie: Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates[39m
+[33m[39m
+[33m---------------------------------------------------[39m
+[33m[39m
+[33m[39m
+[33m---------------------------------------------------[39m
+[33m[39m
+[94mTitle of the movie: Mr. Nobody[39m
+[32mYear the movie came out: 2009[39m
+[32mIMDB Rating of the movie: 7.9[39m
+[32mRotten Tomatoes Rating of the movie: undefined[39m
+[32mCountry where the movie was produced: Belgium, Germany, Canada, France, USA, UK[39m
+[32mLanguage of the movie: English, Mohawk[39m
+[32mPlot of the movie: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.[39m
+[32mActors in the movie: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham[39m
+[33m[39m
+[33m---------------------------------------------------[39m
+[33m[39m
+[33m[39m
+[33m---------------------------------------------------[39m
+[33m[39m
+[94mTitle of the movie: Mr. Nobody[39m
+[32mYear the movie came out: 2009[39m
+[32mIMDB Rating of the movie: 7.9[39m
+[32mRotten Tomatoes Rating of the movie: undefined[39m
+[32mCountry where the movie was produced: Belgium, Germany, Canada, France, USA, UK[39m
+[32mLanguage of the movie: English, Mohawk[39m
+[32mPlot of the movie: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.[39m
+[32mActors in the movie: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham[39m
+[33m[39m
+[33m---------------------------------------------------[39m
+[33m[39m
+[33m[39m
+[33m---------------------------------------------------[39m
+[33m[39m
+[94mTitle of the movie: The Nightmare Before Christmas[39m
+[32mYear the movie came out: 1993[39m
+[32mIMDB Rating of the movie: 8.0[39m
+[32mRotten Tomatoes Rating of the movie: undefined[39m
+[32mCountry where the movie was produced: USA[39m
+[32mLanguage of the movie: English[39m
+[32mPlot of the movie: Jack Skellington, king of Halloween Town, discovers Christmas Town, but his attempts to bring Christmas to his home causes confusion.[39m
+[32mActors in the movie: Danny Elfman, Chris Sarandon, Catherine O'Hara, William Hickey[39m
+[33m[39m
+[33m---------------------------------------------------[39m
+[33m[39m
+[33m[39m
+[33m---------------------------------------------------[39m
+[33m[39m
+[94mTitle of the movie: Mr. Nobody[39m
+[32mYear the movie came out: 2009[39m
+[32mIMDB Rating of the movie: 7.9[39m
+[32mRotten Tomatoes Rating of the movie: undefined[39m
+[32mCountry where the movie was produced: Belgium, Germany, Canada, France, USA, UK[39m
+[32mLanguage of the movie: English, Mohawk[39m
+[32mPlot of the movie: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.[39m
+[32mActors in the movie: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham[39m
+[33m[39m
+[33m---------------------------------------------------[39m
+[33m[39m
+[33m[39m
+[33m---------------------------------------------------[39m
+[33m[39m
+[94mTitle of the movie: Mr. Nobody[39m
+[32mYear the movie came out: 2009[39m
+[32mIMDB Rating of the movie: 7.9[39m
+[32mRotten Tomatoes Rating of the movie: undefined[39m
+[32mCountry where the movie was produced: Belgium, Germany, Canada, France, USA, UK[39m
+[32mLanguage of the movie: English, Mohawk[39m
+[32mPlot of the movie: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.[39m
+[32mActors in the movie: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham[39m
+[33m[39m
+[33m---------------------------------------------------[39m
+[33m[39m
+[33m[39m
+[33m---------------------------------------------------[39m
+[33m[39m
+[94mTitle of the movie: undefined[39m
+[32mYear the movie came out: undefined[39m
+[32mIMDB Rating of the movie: undefined[39m
+[32mRotten Tomatoes Rating of the movie: undefined[39m
+[32mCountry where the movie was produced: undefined[39m
+[32mLanguage of the movie: undefined[39m
+[32mPlot of the movie: undefined[39m
+[32mActors in the movie: undefined[39m
+[33m[39m
+[33m---------------------------------------------------[39m
+[33m[39m
+[33m[39m
+[33m---------------------------------------------------[39m
+[33m[39m
+[94mTitle of the movie: Titanic[39m
+[32mYear the movie came out: 1997[39m
+[32mIMDB Rating of the movie: 7.8[39m
+[32mRotten Tomatoes Rating of the movie: undefined[39m
+[32mCountry where the movie was produced: USA[39m
+[32mLanguage of the movie: English, Swedish[39m
+[32mPlot of the movie: A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.[39m
+[32mActors in the movie: Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates[39m
+[33m[39m
+[33m---------------------------------------------------[39m
+[33m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Mandalay Bay Events Center[39m
+[32mCity: Las Vegas[39m
+[32mCountry: NV[39m
+[32mCountry: United States[39m
+[32mDate: 12/30/2018[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Mandalay Bay Events Center[39m
+[32mCity: Las Vegas[39m
+[32mCountry: NV[39m
+[32mCountry: United States[39m
+[32mDate: 12/31/2018[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Brisbane Entertainment Centre[39m
+[32mCity: Brisbane[39m
+[32mCountry: Australia[39m
+[32mDate: 02/19/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Qudos Bank Arena[39m
+[32mCity: Sydney[39m
+[32mCountry: Australia[39m
+[32mDate: 02/21/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Rod Laver Arena[39m
+[32mCity: Melbourne[39m
+[32mCountry: Australia[39m
+[32mDate: 02/22/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Tokyo Dome[39m
+[32mCity: Tokyo[39m
+[32mCountry: Tokyo[39m
+[32mCountry: Japan[39m
+[32mDate: 02/25/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Gocheok Sky Dome[39m
+[32mCity: Seoul[39m
+[32mCountry: South Korea[39m
+[32mDate: 02/27/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: TBA[39m
+[32mCity: Kaohsiung City[39m
+[32mCountry: Taiwan[39m
+[32mDate: 03/01/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: TBA[39m
+[32mCity: Macau[39m
+[32mCountry: Macau[39m
+[32mDate: 03/03/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: SM Mall Of Asia[39m
+[32mCity: Manila[39m
+[32mCountry: Philippines[39m
+[32mDate: 03/05/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: NATIONAL STADIUM[39m
+[32mCity: Singapore[39m
+[32mCountry: Singapore[39m
+[32mDate: 03/07/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: CHALLENGER HALL[39m
+[32mCity: Bangkok[39m
+[32mCountry: Thailand[39m
+[32mDate: 03/09/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Mollenpark[39m
+[32mCity: Aalborg[39m
+[32mCountry: Denmark[39m
+[32mDate: 06/01/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Lanxess Arena[39m
+[32mCity: Cologne[39m
+[32mCountry: Germany[39m
+[32mDate: 06/03/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: O2 ARENA[39m
+[32mCity: Prague[39m
+[32mCountry: Czech Republic[39m
+[32mDate: 06/05/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Tauron Arena[39m
+[32mCity: Kraków[39m
+[32mCountry: Poland[39m
+[32mDate: 06/06/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Ziggo Dome[39m
+[32mCity: Amsterdam[39m
+[32mCountry: Netherlands[39m
+[32mDate: 06/10/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: AccorHotels Arena[39m
+[32mCity: Paris[39m
+[32mCountry: France[39m
+[32mDate: 06/11/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mArtist: Mariah Carey[39m
+[32mSong: All I Want for Christmas Is You[39m
+[32mPreview: https://p.scdn.co/mp3-preview/9e09ab9d690d07b7da065ca745faf9b91063820a?cid=01842c4ba69642b9a24f3fcd969a57ca[39m
+[32mAlbum: Merry Christmas[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mArtist: Mariah Carey[39m
+[32mSong: All I Want for Christmas Is You[39m
+[32mPreview: https://p.scdn.co/mp3-preview/9e09ab9d690d07b7da065ca745faf9b91063820a?cid=01842c4ba69642b9a24f3fcd969a57ca[39m
+[32mAlbum: Merry Christmas[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Mandalay Bay Events Center[39m
+[32mCity: Las Vegas[39m
+[32mCountry: NV[39m
+[32mCountry: United States[39m
+[32mDate: 12/30/2018[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Mandalay Bay Events Center[39m
+[32mCity: Las Vegas[39m
+[32mCountry: NV[39m
+[32mCountry: United States[39m
+[32mDate: 12/31/2018[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Brisbane Entertainment Centre[39m
+[32mCity: Brisbane[39m
+[32mCountry: Australia[39m
+[32mDate: 02/19/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Qudos Bank Arena[39m
+[32mCity: Sydney[39m
+[32mCountry: Australia[39m
+[32mDate: 02/21/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Rod Laver Arena[39m
+[32mCity: Melbourne[39m
+[32mCountry: Australia[39m
+[32mDate: 02/22/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Tokyo Dome[39m
+[32mCity: Tokyo[39m
+[32mCountry: Tokyo[39m
+[32mCountry: Japan[39m
+[32mDate: 02/25/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Gocheok Sky Dome[39m
+[32mCity: Seoul[39m
+[32mCountry: South Korea[39m
+[32mDate: 02/27/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: TBA[39m
+[32mCity: Kaohsiung City[39m
+[32mCountry: Taiwan[39m
+[32mDate: 03/01/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: TBA[39m
+[32mCity: Macau[39m
+[32mCountry: Macau[39m
+[32mDate: 03/03/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: SM Mall Of Asia[39m
+[32mCity: Manila[39m
+[32mCountry: Philippines[39m
+[32mDate: 03/05/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: NATIONAL STADIUM[39m
+[32mCity: Singapore[39m
+[32mCountry: Singapore[39m
+[32mDate: 03/07/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: CHALLENGER HALL[39m
+[32mCity: Bangkok[39m
+[32mCountry: Thailand[39m
+[32mDate: 03/09/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Mollenpark[39m
+[32mCity: Aalborg[39m
+[32mCountry: Denmark[39m
+[32mDate: 06/01/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Lanxess Arena[39m
+[32mCity: Cologne[39m
+[32mCountry: Germany[39m
+[32mDate: 06/03/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: O2 ARENA[39m
+[32mCity: Prague[39m
+[32mCountry: Czech Republic[39m
+[32mDate: 06/05/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Tauron Arena[39m
+[32mCity: Kraków[39m
+[32mCountry: Poland[39m
+[32mDate: 06/06/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Ziggo Dome[39m
+[32mCity: Amsterdam[39m
+[32mCountry: Netherlands[39m
+[32mDate: 06/10/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: AccorHotels Arena[39m
+[32mCity: Paris[39m
+[32mCountry: France[39m
+[32mDate: 06/11/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Mandalay Bay Events Center[39m
+[32mCity: Las Vegas[39m
+[32mCountry: NV[39m
+[32mCountry: United States[39m
+[32mDate: 12/30/2018[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Mandalay Bay Events Center[39m
+[32mCity: Las Vegas[39m
+[32mCountry: NV[39m
+[32mCountry: United States[39m
+[32mDate: 12/31/2018[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Brisbane Entertainment Centre[39m
+[32mCity: Brisbane[39m
+[32mCountry: Australia[39m
+[32mDate: 02/19/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Qudos Bank Arena[39m
+[32mCity: Sydney[39m
+[32mCountry: Australia[39m
+[32mDate: 02/21/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Rod Laver Arena[39m
+[32mCity: Melbourne[39m
+[32mCountry: Australia[39m
+[32mDate: 02/22/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Tokyo Dome[39m
+[32mCity: Tokyo[39m
+[32mCountry: Tokyo[39m
+[32mCountry: Japan[39m
+[32mDate: 02/25/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Gocheok Sky Dome[39m
+[32mCity: Seoul[39m
+[32mCountry: South Korea[39m
+[32mDate: 02/27/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: TBA[39m
+[32mCity: Kaohsiung City[39m
+[32mCountry: Taiwan[39m
+[32mDate: 03/01/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: TBA[39m
+[32mCity: Macau[39m
+[32mCountry: Macau[39m
+[32mDate: 03/03/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: SM Mall Of Asia[39m
+[32mCity: Manila[39m
+[32mCountry: Philippines[39m
+[32mDate: 03/05/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: NATIONAL STADIUM[39m
+[32mCity: Singapore[39m
+[32mCountry: Singapore[39m
+[32mDate: 03/07/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: CHALLENGER HALL[39m
+[32mCity: Bangkok[39m
+[32mCountry: Thailand[39m
+[32mDate: 03/09/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Mollenpark[39m
+[32mCity: Aalborg[39m
+[32mCountry: Denmark[39m
+[32mDate: 06/01/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Lanxess Arena[39m
+[32mCity: Cologne[39m
+[32mCountry: Germany[39m
+[32mDate: 06/03/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: O2 ARENA[39m
+[32mCity: Prague[39m
+[32mCountry: Czech Republic[39m
+[32mDate: 06/05/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Tauron Arena[39m
+[32mCity: Kraków[39m
+[32mCountry: Poland[39m
+[32mDate: 06/06/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Ziggo Dome[39m
+[32mCity: Amsterdam[39m
+[32mCountry: Netherlands[39m
+[32mDate: 06/10/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: AccorHotels Arena[39m
+[32mCity: Paris[39m
+[32mCountry: France[39m
+[32mDate: 06/11/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Mandalay Bay Events Center[39m
+[32mCity: Las Vegas[39m
+[32mCountry: NV[39m
+[32mCountry: United States[39m
+[32mDate: 12/30/2018[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Mandalay Bay Events Center[39m
+[32mCity: Las Vegas[39m
+[32mCountry: NV[39m
+[32mCountry: United States[39m
+[32mDate: 12/31/2018[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Brisbane Entertainment Centre[39m
+[32mCity: Brisbane[39m
+[32mCountry: Australia[39m
+[32mDate: 02/19/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Qudos Bank Arena[39m
+[32mCity: Sydney[39m
+[32mCountry: Australia[39m
+[32mDate: 02/21/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Rod Laver Arena[39m
+[32mCity: Melbourne[39m
+[32mCountry: Australia[39m
+[32mDate: 02/22/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Tokyo Dome[39m
+[32mCity: Tokyo[39m
+[32mCountry: Tokyo[39m
+[32mCountry: Japan[39m
+[32mDate: 02/25/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Gocheok Sky Dome[39m
+[32mCity: Seoul[39m
+[32mCountry: South Korea[39m
+[32mDate: 02/27/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: TBA[39m
+[32mCity: Kaohsiung City[39m
+[32mCountry: Taiwan[39m
+[32mDate: 03/01/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: TBA[39m
+[32mCity: Macau[39m
+[32mCountry: Macau[39m
+[32mDate: 03/03/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: SM Mall Of Asia[39m
+[32mCity: Manila[39m
+[32mCountry: Philippines[39m
+[32mDate: 03/05/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: NATIONAL STADIUM[39m
+[32mCity: Singapore[39m
+[32mCountry: Singapore[39m
+[32mDate: 03/07/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: CHALLENGER HALL[39m
+[32mCity: Bangkok[39m
+[32mCountry: Thailand[39m
+[32mDate: 03/09/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Mollenpark[39m
+[32mCity: Aalborg[39m
+[32mCountry: Denmark[39m
+[32mDate: 06/01/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Lanxess Arena[39m
+[32mCity: Cologne[39m
+[32mCountry: Germany[39m
+[32mDate: 06/03/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: O2 ARENA[39m
+[32mCity: Prague[39m
+[32mCountry: Czech Republic[39m
+[32mDate: 06/05/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Tauron Arena[39m
+[32mCity: Kraków[39m
+[32mCountry: Poland[39m
+[32mDate: 06/06/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Ziggo Dome[39m
+[32mCity: Amsterdam[39m
+[32mCountry: Netherlands[39m
+[32mDate: 06/10/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: AccorHotels Arena[39m
+[32mCity: Paris[39m
+[32mCountry: France[39m
+[32mDate: 06/11/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Mandalay Bay Events Center[39m
+[32mCity: Las Vegas[39m
+[32mCountry: NV[39m
+[32mDate: 12/30/2018[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Mandalay Bay Events Center[39m
+[32mCity: Las Vegas[39m
+[32mCountry: NV[39m
+[32mDate: 12/31/2018[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Brisbane Entertainment Centre[39m
+[32mCity: Brisbane[39m
+[32mDate: 02/19/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Qudos Bank Arena[39m
+[32mCity: Sydney[39m
+[32mDate: 02/21/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Rod Laver Arena[39m
+[32mCity: Melbourne[39m
+[32mDate: 02/22/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Tokyo Dome[39m
+[32mCity: Tokyo[39m
+[32mCountry: Tokyo[39m
+[32mDate: 02/25/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Gocheok Sky Dome[39m
+[32mCity: Seoul[39m
+[32mDate: 02/27/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: TBA[39m
+[32mCity: Kaohsiung City[39m
+[32mDate: 03/01/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: TBA[39m
+[32mCity: Macau[39m
+[32mDate: 03/03/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: SM Mall Of Asia[39m
+[32mCity: Manila[39m
+[32mDate: 03/05/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: NATIONAL STADIUM[39m
+[32mCity: Singapore[39m
+[32mDate: 03/07/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: CHALLENGER HALL[39m
+[32mCity: Bangkok[39m
+[32mDate: 03/09/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Mollenpark[39m
+[32mCity: Aalborg[39m
+[32mDate: 06/01/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Lanxess Arena[39m
+[32mCity: Cologne[39m
+[32mDate: 06/03/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: O2 ARENA[39m
+[32mCity: Prague[39m
+[32mDate: 06/05/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Tauron Arena[39m
+[32mCity: Kraków[39m
+[32mDate: 06/06/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Ziggo Dome[39m
+[32mCity: Amsterdam[39m
+[32mDate: 06/10/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: AccorHotels Arena[39m
+[32mCity: Paris[39m
+[32mDate: 06/11/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Mandalay Bay Events Center[39m
+[32mCity: Las Vegas[39m
+[32mDate: 12/30/2018[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Mandalay Bay Events Center[39m
+[32mCity: Las Vegas[39m
+[32mDate: 12/31/2018[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Brisbane Entertainment Centre[39m
+[32mCity: Brisbane[39m
+[32mDate: 02/19/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Qudos Bank Arena[39m
+[32mCity: Sydney[39m
+[32mDate: 02/21/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Rod Laver Arena[39m
+[32mCity: Melbourne[39m
+[32mDate: 02/22/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Tokyo Dome[39m
+[32mCity: Tokyo[39m
+[32mDate: 02/25/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Gocheok Sky Dome[39m
+[32mCity: Seoul[39m
+[32mDate: 02/27/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: TBA[39m
+[32mCity: Kaohsiung City[39m
+[32mDate: 03/01/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: TBA[39m
+[32mCity: Macau[39m
+[32mDate: 03/03/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: SM Mall Of Asia[39m
+[32mCity: Manila[39m
+[32mDate: 03/05/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: NATIONAL STADIUM[39m
+[32mCity: Singapore[39m
+[32mDate: 03/07/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: CHALLENGER HALL[39m
+[32mCity: Bangkok[39m
+[32mDate: 03/09/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Mollenpark[39m
+[32mCity: Aalborg[39m
+[32mDate: 06/01/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Lanxess Arena[39m
+[32mCity: Cologne[39m
+[32mDate: 06/03/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: O2 ARENA[39m
+[32mCity: Prague[39m
+[32mDate: 06/05/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Tauron Arena[39m
+[32mCity: Kraków[39m
+[32mDate: 06/06/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Ziggo Dome[39m
+[32mCity: Amsterdam[39m
+[32mDate: 06/10/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: AccorHotels Arena[39m
+[32mCity: Paris[39m
+[32mDate: 06/11/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mArtist: Ace of Base[39m
+[32mSong: The Sign[39m
+[32mPreview: https://p.scdn.co/mp3-preview/9c8401c8142bdd011e51f0211be2e2d4afcd5cff?cid=01842c4ba69642b9a24f3fcd969a57ca[39m
+[32mAlbum: The Sign (US Album) [Remastered][39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[94mTitle of the movie: Mr. Nobody[39m
+[32mYear the movie came out: 2009[39m
+[32mIMDB Rating of the movie: 7.9[39m
+[32mRotten Tomatoes Rating of the movie: undefined[39m
+[32mCountry where the movie was produced: Belgium, Germany, Canada, France, USA, UK[39m
+[32mLanguage of the movie: English, Mohawk[39m
+[32mPlot of the movie: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.[39m
+[32mActors in the movie: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham[39m
+[33m[39m
+[33m---------------------------------------------------[39m
+[33m[39m
+[94mTitle of the movie: The Nightmare Before Christmas[39m
+[32mYear the movie came out: 1993[39m
+[32mIMDB Rating of the movie: 8.0[39m
+[32mRotten Tomatoes Rating of the movie: undefined[39m
+[32mCountry where the movie was produced: USA[39m
+[32mLanguage of the movie: English[39m
+[32mPlot of the movie: Jack Skellington, king of Halloween Town, discovers Christmas Town, but his attempts to bring Christmas to his home causes confusion.[39m
+[32mActors in the movie: Danny Elfman, Chris Sarandon, Catherine O'Hara, William Hickey[39m
+[33m[39m
+[33m---------------------------------------------------[39m
+[33m[39m
+[32mName: Mandalay Bay Events Center[39m
+[32mCity: Las Vegas[39m
+[32mDate: 12/30/2018[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Mandalay Bay Events Center[39m
+[32mCity: Las Vegas[39m
+[32mDate: 12/31/2018[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Brisbane Entertainment Centre[39m
+[32mCity: Brisbane[39m
+[32mDate: 02/19/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Qudos Bank Arena[39m
+[32mCity: Sydney[39m
+[32mDate: 02/21/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Rod Laver Arena[39m
+[32mCity: Melbourne[39m
+[32mDate: 02/22/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Tokyo Dome[39m
+[32mCity: Tokyo[39m
+[32mDate: 02/25/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Gocheok Sky Dome[39m
+[32mCity: Seoul[39m
+[32mDate: 02/27/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: TBA[39m
+[32mCity: Kaohsiung City[39m
+[32mDate: 03/01/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: TBA[39m
+[32mCity: Macau[39m
+[32mDate: 03/03/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: SM Mall Of Asia[39m
+[32mCity: Manila[39m
+[32mDate: 03/05/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: NATIONAL STADIUM[39m
+[32mCity: Singapore[39m
+[32mDate: 03/07/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: CHALLENGER HALL[39m
+[32mCity: Bangkok[39m
+[32mDate: 03/09/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Mollenpark[39m
+[32mCity: Aalborg[39m
+[32mDate: 06/01/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Lanxess Arena[39m
+[32mCity: Cologne[39m
+[32mDate: 06/03/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: O2 ARENA[39m
+[32mCity: Prague[39m
+[32mDate: 06/05/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Tauron Arena[39m
+[32mCity: Kraków[39m
+[32mDate: 06/06/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Ziggo Dome[39m
+[32mCity: Amsterdam[39m
+[32mDate: 06/10/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: AccorHotels Arena[39m
+[32mCity: Paris[39m
+[32mDate: 06/11/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Mandalay Bay Events Center[39m
+[32mCity: Las Vegas[39m
+[32mDate: 12/30/2018[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Mandalay Bay Events Center[39m
+[32mCity: Las Vegas[39m
+[32mDate: 12/31/2018[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Brisbane Entertainment Centre[39m
+[32mCity: Brisbane[39m
+[32mDate: 02/19/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Qudos Bank Arena[39m
+[32mCity: Sydney[39m
+[32mDate: 02/21/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Rod Laver Arena[39m
+[32mCity: Melbourne[39m
+[32mDate: 02/22/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Tokyo Dome[39m
+[32mCity: Tokyo[39m
+[32mDate: 02/25/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Gocheok Sky Dome[39m
+[32mCity: Seoul[39m
+[32mDate: 02/27/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: TBA[39m
+[32mCity: Kaohsiung City[39m
+[32mDate: 03/01/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: TBA[39m
+[32mCity: Macau[39m
+[32mDate: 03/03/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: SM Mall Of Asia[39m
+[32mCity: Manila[39m
+[32mDate: 03/05/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: NATIONAL STADIUM[39m
+[32mCity: Singapore[39m
+[32mDate: 03/07/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: CHALLENGER HALL[39m
+[32mCity: Bangkok[39m
+[32mDate: 03/09/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Mollenpark[39m
+[32mCity: Aalborg[39m
+[32mDate: 06/01/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Lanxess Arena[39m
+[32mCity: Cologne[39m
+[32mDate: 06/03/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: O2 ARENA[39m
+[32mCity: Prague[39m
+[32mDate: 06/05/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Tauron Arena[39m
+[32mCity: Kraków[39m
+[32mDate: 06/06/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Ziggo Dome[39m
+[32mCity: Amsterdam[39m
+[32mDate: 06/10/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: AccorHotels Arena[39m
+[32mCity: Paris[39m
+[32mDate: 06/11/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[94mTitle of the movie: Mr. Nobody[39m
+[32mYear the movie came out: 2009[39m
+[32mIMDB Rating of the movie: 7.9[39m
+[32mRotten Tomatoes Rating of the movie: undefined[39m
+[32mCountry where the movie was produced: Belgium, Germany, Canada, France, USA, UK[39m
+[32mLanguage of the movie: English, Mohawk[39m
+[32mPlot of the movie: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.[39m
+[32mActors in the movie: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham[39m
+[33m[39m
+[33m---------------------------------------------------[39m
+[33m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mArtist: Ace of Base[39m
+[32mSong: The Sign[39m
+[32mPreview: https://p.scdn.co/mp3-preview/9c8401c8142bdd011e51f0211be2e2d4afcd5cff?cid=01842c4ba69642b9a24f3fcd969a57ca[39m
+[32mAlbum: The Sign (US Album) [Remastered][39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mArtist: Backstreet Boys[39m
+[32mSong: I Want It That Way[39m
+[32mPreview: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=01842c4ba69642b9a24f3fcd969a57ca[39m
+[32mAlbum: The Hits--Chapter One[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
